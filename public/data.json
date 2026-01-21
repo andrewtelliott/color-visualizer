@@ -1,0 +1,5930 @@
+[
+  {
+    "hex": "#CCCCCC",
+    "count": 129,
+    "weightedCount": 135,
+    "rank": 1,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.8
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.61",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "13.08",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 0
+  },
+  {
+    "hex": "#FFFFFF",
+    "count": 99,
+    "weightedCount": 105.65,
+    "rank": 2,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.00",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "21.00",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 1
+  },
+  {
+    "hex": "#808080",
+    "count": 98,
+    "weightedCount": 103.2,
+    "rank": 3,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.5019607843137255
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "3.95",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "5.32",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 2
+  },
+  {
+    "hex": "#00669E",
+    "count": 80,
+    "weightedCount": 82.75,
+    "rank": 4,
+    "hsl": {
+      "h": 201.26582278481013,
+      "s": 1,
+      "l": 0.30980392156862746
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "6.19",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "3.39",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 3
+  },
+  {
+    "hex": "#000000",
+    "count": 65,
+    "weightedCount": 70.75,
+    "rank": 5,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "21.00",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "1.00",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      }
+    },
+    "id": 4
+  },
+  {
+    "hex": "#99CC00",
+    "count": 62,
+    "weightedCount": 62.65,
+    "rank": 6,
+    "hsl": {
+      "h": 75,
+      "s": 1,
+      "l": 0.4
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.91",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "10.99",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 5
+  },
+  {
+    "hex": "#666666",
+    "count": 50,
+    "weightedCount": 54,
+    "rank": 7,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.4
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "5.74",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "3.66",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 6
+  },
+  {
+    "hex": "#333333",
+    "count": 40,
+    "weightedCount": 45.46,
+    "rank": 8,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.2
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "12.63",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "1.66",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      }
+    },
+    "id": 7
+  },
+  {
+    "hex": "#3399FF",
+    "count": 39,
+    "weightedCount": 39.15,
+    "rank": 9,
+    "hsl": {
+      "h": 210,
+      "s": 1,
+      "l": 0.6
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.94",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "7.14",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 8
+  },
+  {
+    "hex": "#DADADA",
+    "count": 33,
+    "weightedCount": 35.7,
+    "rank": 10,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.8549019607843137
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.40",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "15.02",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 9
+  },
+  {
+    "hex": "#FAFAFA",
+    "count": 31,
+    "weightedCount": 31.75,
+    "rank": 11,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.9803921568627451
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.04",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "20.12",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 10
+  },
+  {
+    "hex": "#00AA00",
+    "count": 24,
+    "weightedCount": 25.15,
+    "rank": 12,
+    "hsl": {
+      "h": 120,
+      "s": 1,
+      "l": 0.33333333333333326
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "3.11",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "6.75",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 11
+  },
+  {
+    "hex": "#F0F0F0",
+    "count": 24,
+    "weightedCount": 24.55,
+    "rank": 13,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.9411764705882352
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.14",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "18.43",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 12
+  },
+  {
+    "hex": "#EAEAEA",
+    "count": 21,
+    "weightedCount": 21.98,
+    "rank": 14,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.9176470588235294
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.20",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "17.46",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 13
+  },
+  {
+    "hex": "#E8F1F6",
+    "count": 21,
+    "weightedCount": 21.6,
+    "rank": 15,
+    "hsl": {
+      "h": 201.42857142857144,
+      "s": 0.4375000000000002,
+      "l": 0.9372549019607842
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.14",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "18.34",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 14
+  },
+  {
+    "hex": "#058DC7",
+    "count": 19,
+    "weightedCount": 21.4,
+    "rank": 16,
+    "hsl": {
+      "h": 197.9381443298969,
+      "s": 0.9509803921568627,
+      "l": 0.4
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "3.72",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "5.64",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 15
+  },
+  {
+    "hex": "#6AF9C4",
+    "count": 19,
+    "weightedCount": 21.4,
+    "rank": 17,
+    "hsl": {
+      "h": 157.76223776223776,
+      "s": 0.9225806451612902,
+      "l": 0.696078431372549
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.32",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "15.96",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 16
+  },
+  {
+    "hex": "#FF9655",
+    "count": 19,
+    "weightedCount": 21.4,
+    "rank": 18,
+    "hsl": {
+      "h": 22.941176470588236,
+      "s": 1,
+      "l": 0.6666666666666665
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.15",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "9.75",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 17
+  },
+  {
+    "hex": "#ED561B",
+    "count": 19,
+    "weightedCount": 21.4,
+    "rank": 19,
+    "hsl": {
+      "h": 16.857142857142858,
+      "s": 0.853658536585366,
+      "l": 0.5176470588235295
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "3.53",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "5.95",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 18
+  },
+  {
+    "hex": "#24CBE5",
+    "count": 19,
+    "weightedCount": 21.4,
+    "rank": 20,
+    "hsl": {
+      "h": 188.08290155440415,
+      "s": 0.7877551020408162,
+      "l": 0.5196078431372549
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.95",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "10.75",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 19
+  },
+  {
+    "hex": "#CC0000",
+    "count": 19,
+    "weightedCount": 20.15,
+    "rank": 21,
+    "hsl": {
+      "h": 0,
+      "s": 1,
+      "l": 0.4
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "5.89",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "3.57",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 20
+  },
+  {
+    "hex": "#222222",
+    "count": 17,
+    "weightedCount": 20.13,
+    "rank": 22,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.13333333333333333
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "15.91",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "1.32",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      }
+    },
+    "id": 21
+  },
+  {
+    "hex": "#DDDF00",
+    "count": 17,
+    "weightedCount": 19.4,
+    "rank": 23,
+    "hsl": {
+      "h": 60.53811659192825,
+      "s": 1,
+      "l": 0.4372549019607843
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.44",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "14.63",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 22
+  },
+  {
+    "hex": "#64E572",
+    "count": 17,
+    "weightedCount": 19.4,
+    "rank": 24,
+    "hsl": {
+      "h": 126.51162790697676,
+      "s": 0.7127071823204421,
+      "l": 0.6450980392156863
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.62",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "12.99",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 23
+  },
+  {
+    "hex": "#50B432",
+    "count": 17,
+    "weightedCount": 19.4,
+    "rank": 25,
+    "hsl": {
+      "h": 106.15384615384615,
+      "s": 0.5652173913043479,
+      "l": 0.45098039215686275
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.65",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "7.92",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 24
+  },
+  {
+    "hex": "#FFF263",
+    "count": 17,
+    "weightedCount": 19.4,
+    "rank": 26,
+    "hsl": {
+      "h": 55,
+      "s": 1,
+      "l": 0.6941176470588235
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.16",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "18.13",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 25
+  },
+  {
+    "hex": "#444444",
+    "count": 15,
+    "weightedCount": 17.66,
+    "rank": 27,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.26666666666666666
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "9.74",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "2.16",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      }
+    },
+    "id": 26
+  },
+  {
+    "hex": "#AAAAAA",
+    "count": 16,
+    "weightedCount": 17.32,
+    "rank": 28,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.6666666666666665
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.32",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "9.04",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 27
+  },
+  {
+    "hex": "#D1E3ED",
+    "count": 17,
+    "weightedCount": 17.2,
+    "rank": 29,
+    "hsl": {
+      "h": 201.42857142857144,
+      "s": 0.4375000000000002,
+      "l": 0.8745098039215686
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.32",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "15.92",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 28
+  },
+  {
+    "hex": "#E8C01C",
+    "count": 13,
+    "weightedCount": 16.28,
+    "rank": 30,
+    "hsl": {
+      "h": 48.23529411764705,
+      "s": 0.816,
+      "l": 0.5098039215686274
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.75",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "11.99",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 29
+  },
+  {
+    "hex": "#EEEEEE",
+    "count": 15,
+    "weightedCount": 15.65,
+    "rank": 31,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.9333333333333332
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.16",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "18.10",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 30
+  },
+  {
+    "hex": "#3366CC",
+    "count": 13,
+    "weightedCount": 15.4,
+    "rank": 32,
+    "hsl": {
+      "h": 220,
+      "s": 0.6000000000000001,
+      "l": 0.5
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "5.37",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "3.91",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 31
+  },
+  {
+    "hex": "#0011CC",
+    "count": 13,
+    "weightedCount": 15.4,
+    "rank": 33,
+    "hsl": {
+      "h": 235,
+      "s": 1,
+      "l": 0.4
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "10.76",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "1.95",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      }
+    },
+    "id": 32
+  },
+  {
+    "hex": "#F5F5F5",
+    "count": 12,
+    "weightedCount": 13.2,
+    "rank": 34,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.9607843137254902
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.09",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "19.26",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 33
+  },
+  {
+    "hex": "#1A73E8",
+    "count": 11,
+    "weightedCount": 12.65,
+    "rank": 35,
+    "hsl": {
+      "h": 214.07766990291262,
+      "s": 0.8174603174603174,
+      "l": 0.5058823529411764
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "4.51",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "4.66",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 34
+  },
+  {
+    "hex": "#2EBFD5",
+    "count": 10,
+    "weightedCount": 12.65,
+    "rank": 36,
+    "hsl": {
+      "h": 187.90419161676647,
+      "s": 0.6653386454183267,
+      "l": 0.5078431372549019
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.20",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "9.53",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 35
+  },
+  {
+    "hex": "#FF0000",
+    "count": 12,
+    "weightedCount": 12.45,
+    "rank": 37,
+    "hsl": {
+      "h": 0,
+      "s": 1,
+      "l": 0.5
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "4.00",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "5.25",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 36
+  },
+  {
+    "hex": "#FFFFCC",
+    "count": 12,
+    "weightedCount": 12.35,
+    "rank": 38,
+    "hsl": {
+      "h": 60,
+      "s": 1,
+      "l": 0.9
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.03",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "20.43",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 37
+  },
+  {
+    "hex": "#0000FF",
+    "count": 12,
+    "weightedCount": 12.25,
+    "rank": 39,
+    "hsl": {
+      "h": 240,
+      "s": 1,
+      "l": 0.5
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "8.59",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "2.44",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      }
+    },
+    "id": 38
+  },
+  {
+    "hex": "#999999",
+    "count": 11,
+    "weightedCount": 11.1,
+    "rank": 40,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.6
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.85",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "7.37",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 39
+  },
+  {
+    "hex": "#646464",
+    "count": 8,
+    "weightedCount": 10.12,
+    "rank": 41,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.3921568627450981
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "5.92",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "3.55",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 40
+  },
+  {
+    "hex": "#AA0000",
+    "count": 8,
+    "weightedCount": 8.2,
+    "rank": 42,
+    "hsl": {
+      "h": 0,
+      "s": 1,
+      "l": 0.33333333333333326
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "7.75",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "2.71",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      }
+    },
+    "id": 41
+  },
+  {
+    "hex": "#C2D7EF",
+    "count": 8,
+    "weightedCount": 8.1,
+    "rank": 43,
+    "hsl": {
+      "h": 212,
+      "s": 0.5844155844155845,
+      "l": 0.8490196078431373
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.47",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "14.26",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 42
+  },
+  {
+    "hex": "#D1D1D1",
+    "count": 7,
+    "weightedCount": 8.06,
+    "rank": 44,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.8196078431372549
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.53",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "13.75",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 43
+  },
+  {
+    "hex": "#F0F8FF",
+    "count": 8,
+    "weightedCount": 8,
+    "rank": 45,
+    "hsl": {
+      "h": 208,
+      "s": 1,
+      "l": 0.9705882352941176
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.07",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "19.58",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 44
+  },
+  {
+    "hex": "#86C743",
+    "count": 7,
+    "weightedCount": 7.94,
+    "rank": 46,
+    "hsl": {
+      "h": 89.54545454545453,
+      "s": 0.540983606557377,
+      "l": 0.5215686274509804
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.05",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "10.26",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 45
+  },
+  {
+    "hex": "#DFDFDF",
+    "count": 7,
+    "weightedCount": 7.7,
+    "rank": 47,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.8745098039215686
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.33",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "15.76",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 46
+  },
+  {
+    "hex": "#DFEFFF",
+    "count": 7,
+    "weightedCount": 7.1,
+    "rank": 48,
+    "hsl": {
+      "h": 210,
+      "s": 1,
+      "l": 0.9372549019607842
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.17",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "17.93",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 47
+  },
+  {
+    "hex": "#F2F7FC",
+    "count": 7,
+    "weightedCount": 7.1,
+    "rank": 49,
+    "hsl": {
+      "h": 210,
+      "s": 0.6250000000000013,
+      "l": 0.9686274509803922
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.08",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "19.49",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 48
+  },
+  {
+    "hex": "#F2F9FF",
+    "count": 7,
+    "weightedCount": 7,
+    "rank": 50,
+    "hsl": {
+      "h": 207.6923076923077,
+      "s": 1,
+      "l": 0.9745098039215686
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.06",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "19.77",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 49
+  },
+  {
+    "hex": "#CCEECC",
+    "count": 6,
+    "weightedCount": 6.45,
+    "rank": 51,
+    "hsl": {
+      "h": 120,
+      "s": 0.5,
+      "l": 0.8666666666666667
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.26",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "16.67",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 50
+  },
+  {
+    "hex": "#F0567E",
+    "count": 5,
+    "weightedCount": 6.32,
+    "rank": 52,
+    "hsl": {
+      "h": 344.4155844155844,
+      "s": 0.8369565217391304,
+      "l": 0.6392156862745098
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "3.31",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "6.34",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 51
+  },
+  {
+    "hex": "#F9F9F9",
+    "count": 6,
+    "weightedCount": 6,
+    "rank": 53,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.9764705882352941
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.05",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "19.95",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 52
+  },
+  {
+    "hex": "#FFCCCC",
+    "count": 5,
+    "weightedCount": 5.83,
+    "rank": 54,
+    "hsl": {
+      "h": 0,
+      "s": 1,
+      "l": 0.9
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.42",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "14.76",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 53
+  },
+  {
+    "hex": "#16C560",
+    "count": 5,
+    "weightedCount": 5.75,
+    "rank": 55,
+    "hsl": {
+      "h": 145.37142857142857,
+      "s": 0.7990867579908675,
+      "l": 0.4294117647058824
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.29",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "9.19",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 54
+  },
+  {
+    "hex": "#CDCDCD",
+    "count": 5,
+    "weightedCount": 5.6,
+    "rank": 56,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.803921568627451
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.59",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "13.21",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 55
+  },
+  {
+    "hex": "#E6F0F5",
+    "count": 5,
+    "weightedCount": 5.3,
+    "rank": 57,
+    "hsl": {
+      "h": 200.00000000000003,
+      "s": 0.4285714285714288,
+      "l": 0.9313725490196079
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.16",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "18.15",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 56
+  },
+  {
+    "hex": "#AFAFAF",
+    "count": 4,
+    "weightedCount": 5.06,
+    "rank": 58,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.6862745098039216
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.19",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "9.57",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 57
+  },
+  {
+    "hex": "#E8B71D",
+    "count": 5,
+    "weightedCount": 5,
+    "rank": 59,
+    "hsl": {
+      "h": 45.51724137931034,
+      "s": 0.8152610441767068,
+      "l": 0.5117647058823529
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.87",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "11.22",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 58
+  },
+  {
+    "hex": "#1DE840",
+    "count": 5,
+    "weightedCount": 5,
+    "rank": 60,
+    "hsl": {
+      "h": 130.34482758620692,
+      "s": 0.8152610441767068,
+      "l": 0.5117647058823529
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.66",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "12.67",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 59
+  },
+  {
+    "hex": "#2B1DE8",
+    "count": 5,
+    "weightedCount": 5,
+    "rank": 61,
+    "hsl": {
+      "h": 244.13793103448273,
+      "s": 0.8152610441767068,
+      "l": 0.5117647058823529
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "8.59",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "2.44",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      }
+    },
+    "id": 60
+  },
+  {
+    "hex": "#E3E81D",
+    "count": 5,
+    "weightedCount": 5,
+    "rank": 62,
+    "hsl": {
+      "h": 61.477832512315274,
+      "s": 0.8152610441767068,
+      "l": 0.5117647058823529
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.33",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "15.83",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 61
+  },
+  {
+    "hex": "#E81D1D",
+    "count": 5,
+    "weightedCount": 5,
+    "rank": 63,
+    "hsl": {
+      "h": 0,
+      "s": 0.8152610441767068,
+      "l": 0.5117647058823529
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "4.54",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "4.63",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 62
+  },
+  {
+    "hex": "#DD00F3",
+    "count": 5,
+    "weightedCount": 5,
+    "rank": 64,
+    "hsl": {
+      "h": 294.5679012345679,
+      "s": 1,
+      "l": 0.47647058823529403
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "3.91",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "5.37",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 63
+  },
+  {
+    "hex": "#DDDDDD",
+    "count": 5,
+    "weightedCount": 5,
+    "rank": 65,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.8666666666666667
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.36",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "15.46",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 64
+  },
+  {
+    "hex": "#1DDDE8",
+    "count": 5,
+    "weightedCount": 5,
+    "rank": 66,
+    "hsl": {
+      "h": 183.25123152709358,
+      "s": 0.8152610441767068,
+      "l": 0.5117647058823529
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.67",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "12.56",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 65
+  },
+  {
+    "hex": "#F7F7F7",
+    "count": 5,
+    "weightedCount": 5,
+    "rank": 67,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.9686274509803922
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.07",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "19.60",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 66
+  },
+  {
+    "hex": "#FF2400",
+    "count": 5,
+    "weightedCount": 5,
+    "rank": 68,
+    "hsl": {
+      "h": 8.470588235294118,
+      "s": 1,
+      "l": 0.5
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "3.81",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "5.51",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 67
+  },
+  {
+    "hex": "#006AA6",
+    "count": 5,
+    "weightedCount": 5,
+    "rank": 69,
+    "hsl": {
+      "h": 201.6867469879518,
+      "s": 1,
+      "l": 0.3254901960784313
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "5.81",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "3.61",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 68
+  },
+  {
+    "hex": "#555555",
+    "count": 4,
+    "weightedCount": 4.83,
+    "rank": 70,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.33333333333333326
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "7.46",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "2.82",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      }
+    },
+    "id": 69
+  },
+  {
+    "hex": "#26BEC8",
+    "count": 4,
+    "weightedCount": 4.8,
+    "rank": 71,
+    "hsl": {
+      "h": 183.7037037037037,
+      "s": 0.6806722689075628,
+      "l": 0.4666666666666666
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.26",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "9.28",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 70
+  },
+  {
+    "hex": "#F05151",
+    "count": 4,
+    "weightedCount": 4.45,
+    "rank": 72,
+    "hsl": {
+      "h": 0,
+      "s": 0.8412698412698413,
+      "l": 0.6294117647058823
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "3.50",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "6.00",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 71
+  },
+  {
+    "hex": "#F2F7FA",
+    "count": 4,
+    "weightedCount": 4.3,
+    "rank": 73,
+    "hsl": {
+      "h": 202.49999999999991,
+      "s": 0.4444444444444448,
+      "l": 0.964705882352941
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.08",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "19.46",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 72
+  },
+  {
+    "hex": "#BBBBBB",
+    "count": 4,
+    "weightedCount": 4.2,
+    "rank": 74,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.7333333333333333
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.92",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "10.94",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 73
+  },
+  {
+    "hex": "#F3F3F3",
+    "count": 4,
+    "weightedCount": 4.1,
+    "rank": 75,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.9529411764705881
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.11",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "18.93",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 74
+  },
+  {
+    "hex": "#E74C3C",
+    "count": 4,
+    "weightedCount": 4,
+    "rank": 76,
+    "hsl": {
+      "h": 5.614035087719298,
+      "s": 0.7808219178082192,
+      "l": 0.5705882352941176
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "3.82",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "5.50",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 75
+  },
+  {
+    "hex": "#E5E5E5",
+    "count": 4,
+    "weightedCount": 4,
+    "rank": 77,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.8980392156862745
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.26",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "16.67",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 76
+  },
+  {
+    "hex": "#C24700",
+    "count": 3,
+    "weightedCount": 3.45,
+    "rank": 78,
+    "hsl": {
+      "h": 21.95876288659794,
+      "s": 1,
+      "l": 0.3803921568627451
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "5.01",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "4.20",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 77
+  },
+  {
+    "hex": "#EB5757",
+    "count": 3,
+    "weightedCount": 3.45,
+    "rank": 79,
+    "hsl": {
+      "h": 0,
+      "s": 0.7872340425531914,
+      "l": 0.6313725490196078
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "3.48",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "6.03",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 78
+  },
+  {
+    "hex": "#2980B9",
+    "count": 3,
+    "weightedCount": 3.4,
+    "rank": 80,
+    "hsl": {
+      "h": 203.74999999999997,
+      "s": 0.6371681415929203,
+      "l": 0.44313725490196076
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "4.30",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "4.88",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 79
+  },
+  {
+    "hex": "#FFBABA",
+    "count": 3,
+    "weightedCount": 3.3,
+    "rank": 81,
+    "hsl": {
+      "h": 0,
+      "s": 1,
+      "l": 0.8647058823529412
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.62",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "12.98",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 80
+  },
+  {
+    "hex": "#DCDCDC",
+    "count": 3,
+    "weightedCount": 3.15,
+    "rank": 82,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.8627450980392157
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.37",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "15.31",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 81
+  },
+  {
+    "hex": "#E4ECFF",
+    "count": 3,
+    "weightedCount": 3.1,
+    "rank": 83,
+    "hsl": {
+      "h": 222.22222222222223,
+      "s": 1,
+      "l": 0.9470588235294117
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.18",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "17.74",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 82
+  },
+  {
+    "hex": "#4C94BB",
+    "count": 3,
+    "weightedCount": 3,
+    "rank": 84,
+    "hsl": {
+      "h": 201.08108108108107,
+      "s": 0.44939271255060725,
+      "l": 0.5156862745098039
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "3.35",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "6.26",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 83
+  },
+  {
+    "hex": "#F6F6F6",
+    "count": 3,
+    "weightedCount": 3,
+    "rank": 85,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.9647058823529412
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.08",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "19.43",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 84
+  },
+  {
+    "hex": "#FFFACD",
+    "count": 3,
+    "weightedCount": 3,
+    "rank": 86,
+    "hsl": {
+      "h": 53.999999999999986,
+      "s": 1,
+      "l": 0.9019607843137255
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.06",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "19.81",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 85
+  },
+  {
+    "hex": "#F4D18B",
+    "count": 3,
+    "weightedCount": 3,
+    "rank": 87,
+    "hsl": {
+      "h": 40,
+      "s": 0.8267716535433073,
+      "l": 0.7509803921568627
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.46",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "14.34",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 86
+  },
+  {
+    "hex": "#B3D1E2",
+    "count": 3,
+    "weightedCount": 3,
+    "rank": 88,
+    "hsl": {
+      "h": 201.70212765957444,
+      "s": 0.4476190476190475,
+      "l": 0.7941176470588235
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.60",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "13.13",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 87
+  },
+  {
+    "hex": "#C0C0C0",
+    "count": 3,
+    "weightedCount": 3,
+    "rank": 89,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.7529411764705882
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.82",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "11.54",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 88
+  },
+  {
+    "hex": "#3A3017",
+    "count": 2,
+    "weightedCount": 2.53,
+    "rank": 90,
+    "hsl": {
+      "h": 42.857142857142854,
+      "s": 0.43209876543209885,
+      "l": 0.1588235294117647
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "13.00",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "1.62",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      }
+    },
+    "id": 89
+  },
+  {
+    "hex": "#111111",
+    "count": 2,
+    "weightedCount": 2.4,
+    "rank": 91,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.06666666666666667
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "18.88",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "1.11",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      }
+    },
+    "id": 90
+  },
+  {
+    "hex": "#FFE81F",
+    "count": 2,
+    "weightedCount": 2.4,
+    "rank": 92,
+    "hsl": {
+      "h": 53.839285714285715,
+      "s": 1,
+      "l": 0.5607843137254902
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.25",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "16.81",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 91
+  },
+  {
+    "hex": "#CCE0EC",
+    "count": 2,
+    "weightedCount": 2.3,
+    "rank": 93,
+    "hsl": {
+      "h": 202.50000000000003,
+      "s": 0.4571428571428573,
+      "l": 0.8627450980392157
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.36",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "15.44",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 92
+  },
+  {
+    "hex": "#79BAEC",
+    "count": 2,
+    "weightedCount": 2.3,
+    "rank": 94,
+    "hsl": {
+      "h": 206.08695652173913,
+      "s": 0.7516339869281048,
+      "l": 0.7
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.09",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "10.05",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 93
+  },
+  {
+    "hex": "#F3602B",
+    "count": 2,
+    "weightedCount": 2.3,
+    "rank": 95,
+    "hsl": {
+      "h": 15.9,
+      "s": 0.8928571428571427,
+      "l": 0.5607843137254902
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "3.22",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "6.52",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 94
+  },
+  {
+    "hex": "#A1A1AA",
+    "count": 2,
+    "weightedCount": 2.3,
+    "rank": 96,
+    "hsl": {
+      "h": 240,
+      "s": 0.050279329608938675,
+      "l": 0.6490196078431372
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.56",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "8.19",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 95
+  },
+  {
+    "hex": "#1687C5",
+    "count": 2,
+    "weightedCount": 2.3,
+    "rank": 97,
+    "hsl": {
+      "h": 201.25714285714284,
+      "s": 0.7990867579908675,
+      "l": 0.4294117647058824
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "3.96",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "5.31",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 96
+  },
+  {
+    "hex": "#3898FF",
+    "count": 2,
+    "weightedCount": 2.3,
+    "rank": 98,
+    "hsl": {
+      "h": 211.05527638190955,
+      "s": 1,
+      "l": 0.6098039215686275
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.96",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "7.10",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 97
+  },
+  {
+    "hex": "#0EA06F",
+    "count": 2,
+    "weightedCount": 2.3,
+    "rank": 99,
+    "hsl": {
+      "h": 159.8630136986301,
+      "s": 0.8390804597701149,
+      "l": 0.3411764705882353
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "3.35",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "6.28",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 98
+  },
+  {
+    "hex": "#C0392B",
+    "count": 2,
+    "weightedCount": 2.3,
+    "rank": 100,
+    "hsl": {
+      "h": 5.63758389261745,
+      "s": 0.6340425531914893,
+      "l": 0.46078431372549017
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "5.44",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "3.86",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 99
+  },
+  {
+    "hex": "#FFFF00",
+    "count": 2,
+    "weightedCount": 2.3,
+    "rank": 101,
+    "hsl": {
+      "h": 60,
+      "s": 1,
+      "l": 0.5
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.07",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "19.56",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 100
+  },
+  {
+    "hex": "#495668",
+    "count": 2,
+    "weightedCount": 2.3,
+    "rank": 102,
+    "hsl": {
+      "h": 214.83870967741933,
+      "s": 0.1751412429378531,
+      "l": 0.34705882352941175
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "7.46",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "2.81",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      }
+    },
+    "id": 101
+  },
+  {
+    "hex": "#72A130",
+    "count": 2,
+    "weightedCount": 2.3,
+    "rank": 103,
+    "hsl": {
+      "h": 84.95575221238938,
+      "s": 0.5406698564593302,
+      "l": 0.40980392156862744
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "3.06",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "6.86",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 102
+  },
+  {
+    "hex": "#FFCC33",
+    "count": 2,
+    "weightedCount": 2.26,
+    "rank": 104,
+    "hsl": {
+      "h": 45.00000000000001,
+      "s": 1,
+      "l": 0.6
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.51",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "13.94",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 103
+  },
+  {
+    "hex": "#E8E8E8",
+    "count": 2,
+    "weightedCount": 2.2,
+    "rank": 105,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.9098039215686274
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.23",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "17.14",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 104
+  },
+  {
+    "hex": "#BAC8E0",
+    "count": 2,
+    "weightedCount": 2.2,
+    "rank": 106,
+    "hsl": {
+      "h": 217.89473684210526,
+      "s": 0.37999999999999984,
+      "l": 0.803921568627451
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.69",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "12.43",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 105
+  },
+  {
+    "hex": "#E2A303",
+    "count": 2,
+    "weightedCount": 2.1,
+    "rank": 107,
+    "hsl": {
+      "h": 43.049327354260086,
+      "s": 0.9737991266375546,
+      "l": 0.4490196078431372
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.22",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "9.47",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 106
+  },
+  {
+    "hex": "#CC0066",
+    "count": 2,
+    "weightedCount": 2.1,
+    "rank": 108,
+    "hsl": {
+      "h": 330,
+      "s": 1,
+      "l": 0.4
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "5.59",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "3.76",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 107
+  },
+  {
+    "hex": "#336699",
+    "count": 2,
+    "weightedCount": 2,
+    "rank": 109,
+    "hsl": {
+      "h": 210,
+      "s": 0.49999999999999983,
+      "l": 0.4
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "6.00",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "3.50",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 108
+  },
+  {
+    "hex": "#F1F1F1",
+    "count": 2,
+    "weightedCount": 2,
+    "rank": 110,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.9450980392156861
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.13",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "18.59",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 109
+  },
+  {
+    "hex": "#4EA758",
+    "count": 2,
+    "weightedCount": 2,
+    "rank": 111,
+    "hsl": {
+      "h": 126.74157303370785,
+      "s": 0.36326530612244895,
+      "l": 0.4803921568627451
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "3.00",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "6.99",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 110
+  },
+  {
+    "hex": "#FFCC66",
+    "count": 2,
+    "weightedCount": 2,
+    "rank": 112,
+    "hsl": {
+      "h": 40.00000000000001,
+      "s": 1,
+      "l": 0.7
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.49",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "14.08",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 111
+  },
+  {
+    "hex": "#B7BCBF",
+    "count": 2,
+    "weightedCount": 2,
+    "rank": 113,
+    "hsl": {
+      "h": 202.49999999999991,
+      "s": 0.05882352941176452,
+      "l": 0.7333333333333334
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.92",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "10.96",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 112
+  },
+  {
+    "hex": "#A9A9A9",
+    "count": 2,
+    "weightedCount": 2,
+    "rank": 114,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.6627450980392156
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.35",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "8.94",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 113
+  },
+  {
+    "hex": "#BABABA",
+    "count": 2,
+    "weightedCount": 2,
+    "rank": 115,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.7294117647058823
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.94",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "10.82",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 114
+  },
+  {
+    "hex": "#EFEFEF",
+    "count": 2,
+    "weightedCount": 2,
+    "rank": 116,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.9372549019607842
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.15",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "18.26",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 115
+  },
+  {
+    "hex": "#D3D3D3",
+    "count": 2,
+    "weightedCount": 2,
+    "rank": 117,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.8274509803921568
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.50",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "14.03",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 116
+  },
+  {
+    "hex": "#CACACA",
+    "count": 2,
+    "weightedCount": 2,
+    "rank": 118,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.7921568627450981
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.64",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "12.81",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 117
+  },
+  {
+    "hex": "#FF8000",
+    "count": 2,
+    "weightedCount": 2,
+    "rank": 119,
+    "hsl": {
+      "h": 30.11764705882353,
+      "s": 1,
+      "l": 0.5
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.52",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "8.34",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 118
+  },
+  {
+    "hex": "#708090",
+    "count": 2,
+    "weightedCount": 2,
+    "rank": 120,
+    "hsl": {
+      "h": 210,
+      "s": 0.12598425196850394,
+      "l": 0.5019607843137255
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "4.05",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "5.18",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 119
+  },
+  {
+    "hex": "#E0E0E0",
+    "count": 2,
+    "weightedCount": 2,
+    "rank": 121,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.8784313725490196
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.32",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "15.91",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 120
+  },
+  {
+    "hex": "#E67E22",
+    "count": 2,
+    "weightedCount": 2,
+    "rank": 122,
+    "hsl": {
+      "h": 28.16326530612245,
+      "s": 0.7967479674796748,
+      "l": 0.5176470588235295
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.85",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "7.37",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 121
+  },
+  {
+    "hex": "#698C00",
+    "count": 2,
+    "weightedCount": 2,
+    "rank": 123,
+    "hsl": {
+      "h": 75,
+      "s": 1,
+      "l": 0.27450980392156865
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "3.92",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "5.35",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 122
+  },
+  {
+    "hex": "#66CC33",
+    "count": 2,
+    "weightedCount": 2,
+    "rank": 124,
+    "hsl": {
+      "h": 100,
+      "s": 0.6000000000000001,
+      "l": 0.5
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.05",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "10.25",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 123
+  },
+  {
+    "hex": "#CCFF99",
+    "count": 2,
+    "weightedCount": 2,
+    "rank": 125,
+    "hsl": {
+      "h": 90,
+      "s": 1,
+      "l": 0.8
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.15",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "18.33",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 124
+  },
+  {
+    "hex": "#F7A45D",
+    "count": 2,
+    "weightedCount": 2,
+    "rank": 126,
+    "hsl": {
+      "h": 27.662337662337666,
+      "s": 0.9058823529411765,
+      "l": 0.6666666666666665
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.01",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "10.42",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 125
+  },
+  {
+    "hex": "#C4C4C4",
+    "count": 2,
+    "weightedCount": 2,
+    "rank": 127,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.7686274509803923
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.74",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "12.04",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 126
+  },
+  {
+    "hex": "#FCCCCC",
+    "count": 2,
+    "weightedCount": 2,
+    "rank": 128,
+    "hsl": {
+      "h": 0,
+      "s": 0.8888888888888893,
+      "l": 0.8941176470588236
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.43",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "14.65",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 127
+  },
+  {
+    "hex": "#FCF1DC",
+    "count": 2,
+    "weightedCount": 2,
+    "rank": 129,
+    "hsl": {
+      "h": 39.374999999999964,
+      "s": 0.8421052631578952,
+      "l": 0.9254901960784313
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.12",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "18.75",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 128
+  },
+  {
+    "hex": "#CFCFCF",
+    "count": 1,
+    "weightedCount": 1.26,
+    "rank": 130,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.8117647058823529
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.56",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "13.48",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 129
+  },
+  {
+    "hex": "#777979",
+    "count": 1,
+    "weightedCount": 1.26,
+    "rank": 131,
+    "hsl": {
+      "h": 180,
+      "s": 0.008333333333333304,
+      "l": 0.4705882352941176
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "4.38",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "4.80",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 130
+  },
+  {
+    "hex": "#604747",
+    "count": 1,
+    "weightedCount": 1.26,
+    "rank": 132,
+    "hsl": {
+      "h": 0,
+      "s": 0.1497005988023952,
+      "l": 0.3274509803921568
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "8.43",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "2.49",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      }
+    },
+    "id": 131
+  },
+  {
+    "hex": "#D5D5D5",
+    "count": 1,
+    "weightedCount": 1.26,
+    "rank": 133,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.8352941176470589
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.47",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "14.31",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 132
+  },
+  {
+    "hex": "#D0D0D0",
+    "count": 1,
+    "weightedCount": 1.26,
+    "rank": 134,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.8156862745098039
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.54",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "13.62",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 133
+  },
+  {
+    "hex": "#9C9C9C",
+    "count": 1,
+    "weightedCount": 1.26,
+    "rank": 135,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.611764705882353
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.75",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "7.65",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 134
+  },
+  {
+    "hex": "#1D1D1D",
+    "count": 1,
+    "weightedCount": 1.26,
+    "rank": 136,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.11372549019607843
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "16.86",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "1.25",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      }
+    },
+    "id": 135
+  },
+  {
+    "hex": "#E8E4E4",
+    "count": 1,
+    "weightedCount": 1.26,
+    "rank": 137,
+    "hsl": {
+      "h": 0,
+      "s": 0.07999999999999972,
+      "l": 0.9019607843137255
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.26",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "16.65",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 136
+  },
+  {
+    "hex": "#F8951D",
+    "count": 1,
+    "weightedCount": 1.26,
+    "rank": 138,
+    "hsl": {
+      "h": 32.87671232876713,
+      "s": 0.9399141630901288,
+      "l": 0.5431372549019607
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.26",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "9.31",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 137
+  },
+  {
+    "hex": "#EB7F80",
+    "count": 1,
+    "weightedCount": 1.15,
+    "rank": 139,
+    "hsl": {
+      "h": 359.44444444444446,
+      "s": 0.7297297297297295,
+      "l": 0.7098039215686274
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.66",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "7.88",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 138
+  },
+  {
+    "hex": "#FFC800",
+    "count": 1,
+    "weightedCount": 1.15,
+    "rank": 140,
+    "hsl": {
+      "h": 47.05882352941176,
+      "s": 1,
+      "l": 0.5
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.55",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "13.51",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 139
+  },
+  {
+    "hex": "#0094FF",
+    "count": 1,
+    "weightedCount": 1.15,
+    "rank": 141,
+    "hsl": {
+      "h": 205.17647058823528,
+      "s": 1,
+      "l": 0.5
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "3.14",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "6.68",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 140
+  },
+  {
+    "hex": "#00BDF0",
+    "count": 1,
+    "weightedCount": 1.15,
+    "rank": 142,
+    "hsl": {
+      "h": 192.75,
+      "s": 1,
+      "l": 0.4705882352941176
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.20",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "9.54",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 141
+  },
+  {
+    "hex": "#D07F80",
+    "count": 1,
+    "weightedCount": 1.15,
+    "rank": 143,
+    "hsl": {
+      "h": 359.25925925925924,
+      "s": 0.4628571428571428,
+      "l": 0.6568627450980392
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.99",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "7.03",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 142
+  },
+  {
+    "hex": "#ECF5FF",
+    "count": 1,
+    "weightedCount": 1.15,
+    "rank": 144,
+    "hsl": {
+      "h": 211.57894736842104,
+      "s": 1,
+      "l": 0.9627450980392157
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.10",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "19.07",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 143
+  },
+  {
+    "hex": "#CCEDFF",
+    "count": 1,
+    "weightedCount": 1.15,
+    "rank": 145,
+    "hsl": {
+      "h": 201.1764705882353,
+      "s": 1,
+      "l": 0.9
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.23",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "17.12",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 144
+  },
+  {
+    "hex": "#0D67BB",
+    "count": 1,
+    "weightedCount": 1.15,
+    "rank": 146,
+    "hsl": {
+      "h": 208.9655172413793,
+      "s": 0.8699999999999999,
+      "l": 0.3921568627450981
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "5.71",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "3.67",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 145
+  },
+  {
+    "hex": "#FDFBFC",
+    "count": 1,
+    "weightedCount": 1.15,
+    "rank": 147,
+    "hsl": {
+      "h": 329.99999999999955,
+      "s": 0.33333333333333326,
+      "l": 0.9882352941176471
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.03",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "20.38",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 146
+  },
+  {
+    "hex": "#F7FAFC",
+    "count": 1,
+    "weightedCount": 1.1,
+    "rank": 148,
+    "hsl": {
+      "h": 204.0000000000002,
+      "s": 0.45454545454545453,
+      "l": 0.9784313725490196
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.05",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "20.03",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 147
+  },
+  {
+    "hex": "#C0CEE5",
+    "count": 1,
+    "weightedCount": 1.1,
+    "rank": 149,
+    "hsl": {
+      "h": 217.2972972972973,
+      "s": 0.4157303370786521,
+      "l": 0.8254901960784313
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.59",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "13.20",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 148
+  },
+  {
+    "hex": "#FFDB8B",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 150,
+    "hsl": {
+      "h": 41.37931034482758,
+      "s": 1,
+      "l": 0.7725490196078431
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.33",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "15.76",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 149
+  },
+  {
+    "hex": "#3D3D3D",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 151,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.23921568627450981
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "10.86",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "1.93",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      }
+    },
+    "id": 150
+  },
+  {
+    "hex": "#FFFBF0",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 152,
+    "hsl": {
+      "h": 43.99999999999995,
+      "s": 1,
+      "l": 0.9705882352941176
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.03",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "20.31",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 151
+  },
+  {
+    "hex": "#C2DAE6",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 153,
+    "hsl": {
+      "h": 200,
+      "s": 0.418604651162791,
+      "l": 0.8313725490196078
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.45",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "14.46",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 152
+  },
+  {
+    "hex": "#E6EEEE",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 154,
+    "hsl": {
+      "h": 180,
+      "s": 0.19047619047618997,
+      "l": 0.9176470588235294
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.18",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "17.83",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 153
+  },
+  {
+    "hex": "#FFD700",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 155,
+    "hsl": {
+      "h": 50.588235294117645,
+      "s": 1,
+      "l": 0.5
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.40",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "14.97",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 154
+  },
+  {
+    "hex": "#CC9933",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 156,
+    "hsl": {
+      "h": 39.99999999999999,
+      "s": 0.6000000000000001,
+      "l": 0.5
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.57",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "8.17",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 155
+  },
+  {
+    "hex": "#ADFF2F",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 157,
+    "hsl": {
+      "h": 83.65384615384615,
+      "s": 1,
+      "l": 0.592156862745098
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.23",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "17.12",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 156
+  },
+  {
+    "hex": "#7C0A02",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 158,
+    "hsl": {
+      "h": 3.934426229508197,
+      "s": 0.968253968253968,
+      "l": 0.24705882352941178
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "11.04",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "1.90",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      }
+    },
+    "id": 157
+  },
+  {
+    "hex": "#E04428",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 159,
+    "hsl": {
+      "h": 9.130434782608695,
+      "s": 0.7479674796747967,
+      "l": 0.5176470588235293
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "4.18",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "5.03",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 158
+  },
+  {
+    "hex": "#008000",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 160,
+    "hsl": {
+      "h": 120,
+      "s": 1,
+      "l": 0.25098039215686274
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "5.14",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "4.09",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 159
+  },
+  {
+    "hex": "#0099CC",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 161,
+    "hsl": {
+      "h": 195,
+      "s": 1,
+      "l": 0.4
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "3.27",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "6.43",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 160
+  },
+  {
+    "hex": "#56A5EC",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 162,
+    "hsl": {
+      "h": 208.4,
+      "s": 0.7978723404255319,
+      "l": 0.6313725490196078
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.63",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "7.99",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 161
+  },
+  {
+    "hex": "#EBF5FF",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 163,
+    "hsl": {
+      "h": 209.99999999999994,
+      "s": 1,
+      "l": 0.96078431372549
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.10",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "19.04",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 162
+  },
+  {
+    "hex": "#D9D9D9",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 164,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.8509803921568627
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.41",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "14.88",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 163
+  },
+  {
+    "hex": "#FFA500",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 165,
+    "hsl": {
+      "h": 38.82352941176471,
+      "s": 1,
+      "l": 0.5
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.97",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "10.63",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 164
+  },
+  {
+    "hex": "#3EA055",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 166,
+    "hsl": {
+      "h": 134.0816326530612,
+      "s": 0.4414414414414414,
+      "l": 0.43529411764705883
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "3.30",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "6.36",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 165
+  },
+  {
+    "hex": "#F9FCFD",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 167,
+    "hsl": {
+      "h": 194.9999999999999,
+      "s": 0.5,
+      "l": 0.9843137254901961
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.03",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "20.37",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 166
+  },
+  {
+    "hex": "#0000CC",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 168,
+    "hsl": {
+      "h": 240,
+      "s": 1,
+      "l": 0.4
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "11.22",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "1.87",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      }
+    },
+    "id": 167
+  },
+  {
+    "hex": "#DEDEDE",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 169,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.8705882352941177
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.35",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "15.61",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 168
+  },
+  {
+    "hex": "#FF00DC",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 170,
+    "hsl": {
+      "h": 308.235294117647,
+      "s": 1,
+      "l": 0.5
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "3.34",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "6.29",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 169
+  },
+  {
+    "hex": "#80B2CE",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 171,
+    "hsl": {
+      "h": 201.53846153846155,
+      "s": 0.4431818181818182,
+      "l": 0.6549019607843136
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.29",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "9.18",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 170
+  },
+  {
+    "hex": "#B6FF00",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 172,
+    "hsl": {
+      "h": 77.17647058823529,
+      "s": 1,
+      "l": 0.5
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.21",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "17.29",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 171
+  },
+  {
+    "hex": "#B8860B",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 173,
+    "hsl": {
+      "h": 42.65895953757225,
+      "s": 0.8871794871794872,
+      "l": 0.38235294117647056
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "3.25",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "6.45",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 172
+  },
+  {
+    "hex": "#C5E3BF",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 174,
+    "hsl": {
+      "h": 109.99999999999999,
+      "s": 0.39130434782608675,
+      "l": 0.8196078431372549
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.39",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "15.11",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 173
+  },
+  {
+    "hex": "#328701",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 175,
+    "hsl": {
+      "h": 98.05970149253733,
+      "s": 0.9852941176470589,
+      "l": 0.26666666666666666
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "4.56",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "4.60",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 174
+  },
+  {
+    "hex": "#C2DFFF",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 176,
+    "hsl": {
+      "h": 211.47540983606555,
+      "s": 1,
+      "l": 0.8803921568627451
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.37",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "15.29",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 175
+  },
+  {
+    "hex": "#FE4EE8",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 177,
+    "hsl": {
+      "h": 307.5,
+      "s": 0.9887640449438203,
+      "l": 0.6509803921568627
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.81",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "7.47",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 176
+  },
+  {
+    "hex": "#2F2F2F",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 178,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.1843137254901961
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "13.39",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "1.57",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      }
+    },
+    "id": 177
+  },
+  {
+    "hex": "#FFB6C1",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 179,
+    "hsl": {
+      "h": 350.958904109589,
+      "s": 1,
+      "l": 0.8568627450980393
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.65",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "12.71",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 178
+  },
+  {
+    "hex": "#E1E1E1",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 180,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.8823529411764706
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.31",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "16.06",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 179
+  },
+  {
+    "hex": "#87CEEB",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 181,
+    "hsl": {
+      "h": 197.4,
+      "s": 0.714285714285714,
+      "l": 0.7254901960784313
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.74",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "12.06",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 180
+  },
+  {
+    "hex": "#0B7500",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 182,
+    "hsl": {
+      "h": 114.35897435897435,
+      "s": 1,
+      "l": 0.22941176470588234
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "5.90",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "3.56",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 181
+  },
+  {
+    "hex": "#E8A317",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 183,
+    "hsl": {
+      "h": 40.19138755980861,
+      "s": 0.8196078431372549,
+      "l": 0.5
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.17",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "9.68",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 182
+  },
+  {
+    "hex": "#0669AB",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 184,
+    "hsl": {
+      "h": 204,
+      "s": 0.9322033898305083,
+      "l": 0.34705882352941175
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "5.81",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "3.62",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 183
+  },
+  {
+    "hex": "#00FF00",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 185,
+    "hsl": {
+      "h": 120,
+      "s": 1,
+      "l": 0.5
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.37",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "15.30",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 184
+  },
+  {
+    "hex": "#FBE7E7",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 186,
+    "hsl": {
+      "h": 0,
+      "s": 0.7142857142857134,
+      "l": 0.9450980392156861
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.19",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "17.69",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 185
+  },
+  {
+    "hex": "#C5E1F1",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 187,
+    "hsl": {
+      "h": 201.8181818181818,
+      "s": 0.6111111111111107,
+      "l": 0.8588235294117648
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.36",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "15.41",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 186
+  },
+  {
+    "hex": "#C6C6C6",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 188,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.7764705882352942
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.71",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "12.29",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 187
+  },
+  {
+    "hex": "#157DEC",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 189,
+    "hsl": {
+      "h": 210.97674418604652,
+      "s": 0.8498023715415021,
+      "l": 0.503921568627451
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "4.06",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "5.18",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 188
+  },
+  {
+    "hex": "#BCD516",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 190,
+    "hsl": {
+      "h": 67.85340314136124,
+      "s": 0.8127659574468085,
+      "l": 0.46078431372549017
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.66",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "12.67",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 189
+  },
+  {
+    "hex": "#488AC7",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 191,
+    "hsl": {
+      "h": 208.8188976377953,
+      "s": 0.5313807531380753,
+      "l": 0.5313725490196078
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "3.66",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "5.74",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 190
+  },
+  {
+    "hex": "#FF8C00",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 192,
+    "hsl": {
+      "h": 32.94117647058824,
+      "s": 1,
+      "l": 0.5
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.33",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "9.00",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 191
+  },
+  {
+    "hex": "#F0D1BF",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 193,
+    "hsl": {
+      "h": 22.040816326530607,
+      "s": 0.620253164556962,
+      "l": 0.8450980392156864
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.44",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "14.58",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 192
+  },
+  {
+    "hex": "#FB0343",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 194,
+    "hsl": {
+      "h": 344.51612903225805,
+      "s": 0.9763779527559054,
+      "l": 0.49803921568627446
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "4.04",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "5.20",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 193
+  },
+  {
+    "hex": "#FBA617",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 195,
+    "hsl": {
+      "h": 37.631578947368425,
+      "s": 0.9661016949152541,
+      "l": 0.5372549019607843
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.99",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "10.57",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 194
+  },
+  {
+    "hex": "#DAA520",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 196,
+    "hsl": {
+      "h": 42.903225806451616,
+      "s": 0.7440000000000001,
+      "l": 0.49019607843137253
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.24",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "9.38",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 195
+  },
+  {
+    "hex": "#888888",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 197,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.5333333333333333
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "3.54",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "5.92",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 196
+  },
+  {
+    "hex": "#1A01CC",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 198,
+    "hsl": {
+      "h": 247.38916256157634,
+      "s": 0.9902439024390245,
+      "l": 0.4019607843137255
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "10.94",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "1.92",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      }
+    },
+    "id": 197
+  },
+  {
+    "hex": "#1185C1",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 199,
+    "hsl": {
+      "h": 200.45454545454544,
+      "s": 0.8380952380952381,
+      "l": 0.4117647058823529
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "4.08",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "5.15",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 198
+  },
+  {
+    "hex": "#9EC4D7",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 200,
+    "hsl": {
+      "h": 199.99999999999997,
+      "s": 0.4160583941605838,
+      "l": 0.7313725490196079
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.85",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "11.33",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 199
+  },
+  {
+    "hex": "#4186AD",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 201,
+    "hsl": {
+      "h": 201.66666666666666,
+      "s": 0.453781512605042,
+      "l": 0.4666666666666666
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "4.01",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "5.24",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 200
+  },
+  {
+    "hex": "#FAFAD2",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 202,
+    "hsl": {
+      "h": 60,
+      "s": 0.7999999999999998,
+      "l": 0.9019607843137254
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.07",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "19.67",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 201
+  },
+  {
+    "hex": "#A8A8A8",
+    "count": 1,
+    "weightedCount": 1,
+    "rank": 203,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.6588235294117646
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.38",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "8.83",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 202
+  },
+  {
+    "hex": "#BCE8F1",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 204,
+    "hsl": {
+      "h": 190.18867924528303,
+      "s": 0.6543209876543208,
+      "l": 0.8411764705882354
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.32",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "15.95",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 203
+  },
+  {
+    "hex": "#FDFDFD",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 205,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.9921568627450981
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.02",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "20.65",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 204
+  },
+  {
+    "hex": "#FAEBE6",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 206,
+    "hsl": {
+      "h": 14.999999999999957,
+      "s": 0.666666666666666,
+      "l": 0.9411764705882352
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.16",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "18.09",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 205
+  },
+  {
+    "hex": "#ECECEC",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 207,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.9254901960784313
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.18",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "17.78",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 206
+  },
+  {
+    "hex": "#979595",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 208,
+    "hsl": {
+      "h": 0,
+      "s": 0.00952380952380949,
+      "l": 0.5882352941176471
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "2.98",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "7.05",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 207
+  },
+  {
+    "hex": "#212529",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 209,
+    "hsl": {
+      "h": 210,
+      "s": 0.1081081081081081,
+      "l": 0.1450980392156863
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "15.43",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "1.36",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      }
+    },
+    "id": 208
+  },
+  {
+    "hex": "#B3CEFF",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 210,
+    "hsl": {
+      "h": 218.68421052631578,
+      "s": 1,
+      "l": 0.8509803921568627
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.59",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "13.19",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 209
+  },
+  {
+    "hex": "#8FDF82",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 211,
+    "hsl": {
+      "h": 111.61290322580645,
+      "s": 0.5923566878980892,
+      "l": 0.692156862745098
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.61",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "13.05",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 210
+  },
+  {
+    "hex": "#BFBFBF",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 212,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.7490196078431373
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.84",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "11.42",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 211
+  },
+  {
+    "hex": "#1E1EE1",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 213,
+    "hsl": {
+      "h": 240,
+      "s": 0.7647058823529411,
+      "l": 0.5
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "9.02",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "2.33",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      }
+    },
+    "id": 212
+  },
+  {
+    "hex": "#F7FFDE",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 214,
+    "hsl": {
+      "h": 74.54545454545455,
+      "s": 1,
+      "l": 0.9352941176470588
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.03",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "20.31",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 213
+  },
+  {
+    "hex": "#FFDEB3",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 215,
+    "hsl": {
+      "h": 33.94736842105264,
+      "s": 1,
+      "l": 0.8509803921568627
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.28",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "16.35",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 214
+  },
+  {
+    "hex": "#353D48",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 216,
+    "hsl": {
+      "h": 214.73684210526315,
+      "s": 0.1519999999999999,
+      "l": 0.2450980392156863
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "10.98",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "1.91",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      }
+    },
+    "id": 215
+  },
+  {
+    "hex": "#CCCCFF",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 217,
+    "hsl": {
+      "h": 240,
+      "s": 1,
+      "l": 0.9
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.54",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "13.65",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 216
+  },
+  {
+    "hex": "#F2F2F2",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 218,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.9490196078431371
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.12",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "18.76",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 217
+  },
+  {
+    "hex": "#D7D7D7",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 219,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.8431372549019608
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.44",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "14.59",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 218
+  },
+  {
+    "hex": "#EAF1F7",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 220,
+    "hsl": {
+      "h": 207.6923076923077,
+      "s": 0.44827586206896575,
+      "l": 0.9431372549019608
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.14",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "18.42",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 219
+  },
+  {
+    "hex": "#BDBDBD",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 221,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.7411764705882353
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.88",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "11.18",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 220
+  },
+  {
+    "hex": "#FCF8E3",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 222,
+    "hsl": {
+      "h": 50.39999999999998,
+      "s": 0.8064516129032264,
+      "l": 0.9392156862745098
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.07",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "19.68",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 221
+  },
+  {
+    "hex": "#F3EFF4",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 223,
+    "hsl": {
+      "h": 287.9999999999997,
+      "s": 0.1851851851851865,
+      "l": 0.9470588235294117
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.14",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "18.46",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 222
+  },
+  {
+    "hex": "#E6E6E6",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 224,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.9019607843137255
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.25",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "16.83",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 223
+  },
+  {
+    "hex": "#FAFAE8",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 225,
+    "hsl": {
+      "h": 60,
+      "s": 0.6428571428571422,
+      "l": 0.9450980392156861
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.06",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "19.90",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 224
+  },
+  {
+    "hex": "#CCFFCC",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 226,
+    "hsl": {
+      "h": 120,
+      "s": 1,
+      "l": 0.9
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.12",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "18.74",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 225
+  },
+  {
+    "hex": "#777777",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 227,
+    "hsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.4666666666666666
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "4.48",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": true
+      },
+      "black": {
+        "ratio": "4.69",
+        "aa": true,
+        "aaa": false,
+        "aaLarge": true
+      }
+    },
+    "id": 226
+  },
+  {
+    "hex": "#F0F7E2",
+    "count": 0,
+    "weightedCount": 0,
+    "rank": 228,
+    "hsl": {
+      "h": 80.00000000000001,
+      "s": 0.5675675675675673,
+      "l": 0.9274509803921569
+    },
+    "accessibility": {
+      "white": {
+        "ratio": "1.10",
+        "aa": false,
+        "aaa": false,
+        "aaLarge": false
+      },
+      "black": {
+        "ratio": "19.11",
+        "aa": true,
+        "aaa": true,
+        "aaLarge": true
+      }
+    },
+    "id": 227
+  }
+]
