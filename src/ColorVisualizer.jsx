@@ -1376,6 +1376,9 @@ const ColorVisualizer = () => {
                           onHover={handleHover} 
                           selectedColors={selectedColors}
                           onSelect={selectFromChart}
+                          hueBandEnabled={hueBandEnabled}
+                          hueBandCenter={hueBandCenter}
+                          hueBandWidth={hueBandWidth}
                       />
                     )}
 
@@ -1742,7 +1745,7 @@ function mergeScale(base, candidate, maxWeight, preservePopularStrength) {
     return Math.max(0.05, scale);
 }
 
-const ColorWheel = React.memo(({ data, viewMode, radialMetric, showTour, onHover, selectedColors, onSelect, size }) => {
+const ColorWheel = React.memo(({ data, viewMode, radialMetric, showTour, onHover, selectedColors, onSelect, size, hueBandEnabled, hueBandCenter, hueBandWidth }) => {
     const width = Number.isFinite(size) ? size : 600;
     const height = Number.isFinite(size) ? size : 600;
     const radius = Math.min(width, height) / 2;
@@ -1843,6 +1846,24 @@ const ColorWheel = React.memo(({ data, viewMode, radialMetric, showTour, onHover
                                 opacity="0.05"
                             />
                         ))}
+
+                        {/* Hue Band Overlay */}
+                        {hueBandEnabled && (
+                            <path
+                                d={d3.arc()({
+                                    innerRadius: 0,
+                                    outerRadius: innerRadius,
+                                    startAngle: ((hueBandCenter - hueBandWidth / 2) * Math.PI) / 180,
+                                    endAngle: ((hueBandCenter + hueBandWidth / 2) * Math.PI) / 180,
+                                })}
+                                fill="rgba(0,0,0,0.03)"
+                                stroke="rgba(0,0,0,0.3)"
+                                strokeWidth={1}
+                                strokeDasharray="4 2"
+                                pointerEvents="none"
+                            />
+                        )}
+
                         <circle r={innerRadius} fill="none" stroke="#e5e7eb" />
                         {[0.25, 0.5, 0.75].map(tick => (
                             <circle key={tick} r={xScale(tick)} fill="none" stroke="#e5e7eb" strokeDasharray="4 4" />
