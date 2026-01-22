@@ -16,7 +16,25 @@ const ColorVisualizer = () => {
   const [viewMode, setViewMode] = useState('voronoi'); // 'scatter' or 'voronoi'
   const [useAdvancedClustering, setUseAdvancedClustering] = useState(false);
   const [selectedColors, setSelectedColors] = useState(new Set());
+  const [wheelSize, setWheelSize] = useState(600);
   const vizContainerRef = useRef(null);
+
+  useEffect(() => {
+    if (!vizContainerRef.current) return;
+
+    const el = vizContainerRef.current;
+    const compute = () => {
+      const w = el.clientWidth || 0;
+      const next = Math.max(320, Math.min(900, Math.floor(w - 48)));
+      setWheelSize((prev) => (prev === next ? prev : next));
+    };
+
+    compute();
+
+    const ro = new ResizeObserver(() => compute());
+    ro.observe(el);
+    return () => ro.disconnect();
+  }, []);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -308,6 +326,7 @@ const ColorVisualizer = () => {
         <div ref={vizContainerRef} className="relative p-6 min-h-[600px] flex items-center justify-center">
              <ColorWheel 
                 data={filteredData} 
+                size={wheelSize}
                 viewMode={viewMode} 
                 onHover={handleHover} 
                 selectedColors={selectedColors}
