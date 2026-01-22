@@ -30,6 +30,9 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Run color analyzer
+        run: npm run gen:data
+
       - name: Build (Vite, base and outDir overrides)
         run: npm run build -- --base=/color-visualizer/ --outDir=build
 

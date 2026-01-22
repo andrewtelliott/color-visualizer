@@ -5316,20 +5316,7 @@
       }
     },
     "id": 196,
-    "cssUsage": [
-      {
-        "file": "src/App.css",
-        "line": 41,
-        "column": 3,
-        "selector": ".read-the-docs",
-        "context": ".read-the-docs",
-        "property": "color",
-        "value": "#888",
-        "kind": "literal",
-        "token": "#888",
-        "variable": null
-      }
-    ]
+    "cssUsage": []
   },
   {
     "hex": "#1A01CC",
